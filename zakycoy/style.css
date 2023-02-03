@@ -1,0 +1,42 @@
+body {
+          font-family: Arial;
+          margin: 0;
+      
+      }
+      
+      ul {
+          list-style-type: none;
+          margin: 0;
+          padding: 0;
+          overflow: hidden;
+          width: 100%;
+          background-color: gray;
+      
+          }
+      
+      li a {
+          display: block;
+          padding: 25px;
+          color: white;
+          float: right;
+          border-left: 1px solid white;
+      }
+      
+      .active {
+          background-color: gray;
+      }
+      
+      li h1 {
+          padding-left: 30px;
+          padding-right: 30px;
+          color: white;
+      }
+      
+      .header {
+          padding: 85px;
+          text-align: left;
+          color: white;
+          font-size: 30px;
+          background-image: url("hitler.jpg") ;
+      }
+      
